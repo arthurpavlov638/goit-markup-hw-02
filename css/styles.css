@@ -99,6 +99,7 @@ color: #434455;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    background-color:#2e2f42 ;
 }
 .page-logo {
     font-family: "Raleway", sans-serif;
@@ -132,12 +133,14 @@ text-align: center;
 color: #fff;
 }
 .section-title{
-background-color: #F4F4FD;
-font-size: 36px;
-line-height: 1.11;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-transform: capitalize; 
 color: #2e2f42;
+text-align: center;
+background-color: #F4F4FD;
 }
 .team-member{
     background-color: #FFFFFF
