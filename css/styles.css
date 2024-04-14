@@ -8,7 +8,8 @@ button{
     cursor: pointer;
 }
 address{
-    font-style: normal}
+    font-style: normal
+}
 
     body {
     font-family: "Roboto", sans-serif;
@@ -35,8 +36,6 @@ address{
 
 
 .menu-link{
-    font-family: "Roboto", sans-serif;
-font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -53,13 +52,11 @@ color: #2e2f42;}
     color: #434455;
 }
 
-.contact-link:hover {
-    color: #404bbf;
-}
-
+.contact-link:hover,
 .contact-link:focus {
     color: #404bbf;
 }
+
 
   
 .buy-now-btn{font-family: "Roboto", sans-serif;
@@ -68,6 +65,7 @@ color: #2e2f42;}
     line-height: 1.5;
     letter-spacing: 0.04em;
     background: #4d5ae5;
+    color: #ffffff;
 }
 .buy-now-btn:hover,
 .buy-now-btn:focus {
@@ -87,4 +85,11 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+}
+.custom-title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
