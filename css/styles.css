@@ -10,7 +10,9 @@ button {
 address{
     font-style: normal
 } 
-
+span{
+    color: #2e2f42;
+}
 
     body {
     font-family: "Roboto", sans-serif;
