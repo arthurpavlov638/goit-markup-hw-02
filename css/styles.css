@@ -46,18 +46,21 @@ font-weight: 500 }
 .menu-link:focus {
     color: #404bbf;;
 }
-.address-link {
+.address-link { 
+    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    text-decoration: none; /* Прибираємо підкреслення */
-}
+    text-decoration: none;}
+    /* Прибираємо підкреслення */
+
 
 /* Зміна кольору тексту при наведенні мишкою */
 .address-link:hover {
     color: #404bbf;
 }
+
 
 /* Зміна кольору тексту при фокусі (натисканні) */
 .address-link:focus {
@@ -169,4 +172,18 @@ background-color: #F4F4FD;
  .team{
     background-color: #F4F4FD
  }
- 
+ .custom-section{
+    background-color: #2e2f42; 
+ } 
+ .section-4 h2{
+    font-size: 36px;
+    line-height: 1.11;
+    text-transform: capitalize;
+ }
+ .section-3-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+ }
