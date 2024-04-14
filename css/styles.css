@@ -20,50 +20,51 @@ span{
     background-color: #fff;
     color: #434455;}
 
-.page-logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5; /* Заданий колір тексту */
+    .page-logo{
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4D5AE5;
 }
-.text-span{
+
+.logo-page{
     color: #2e2f42;
 }
 
-
+.menu-item{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
 
 .menu-link{
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2e2f42;
-font-weight: 500 }
+        color: #2e2f42;
+}
 
+.menu-link:focus,
 .menu-link:hover,
-.menu-link:focus {
-    color: #404bbf;;
-}
-.address-link { 
-    font-style: normal;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-    text-decoration: none;}
-    /* Прибираємо підкреслення */
-
-
-/* Зміна кольору тексту при наведенні мишкою */
-.address-link:hover {
-    color: #404bbf;
+.menu-link:active{
+        color: #404bbf;
 }
 
+.address-top{
+        font-style: normal
+}
 
-/* Зміна кольору тексту при фокусі (натисканні) */
-.address-link:focus {
+.address-link{ 
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.address-link:hover,
+.address-link:focus,
+.address-link:active{
     color: #404bbf;
 }
 
