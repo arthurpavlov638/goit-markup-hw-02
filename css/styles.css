@@ -1,13 +1,13 @@
-ul,ol{
+ul,ol {
     list-style-type: none;
 }
-a{  color: inherit;
+a {  color: inherit;
     text-decoration: none;
 }
-button{
+button {
     cursor: pointer;
 }
-address{
+address {
     font-style: normal
 }
 
