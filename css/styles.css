@@ -115,4 +115,25 @@ footer{
 .contact-text {
     line-height: 1.5;
     color: #F4F4FD;
+    letter-spacing: 0.02em
+}
+.custom-title{
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+.section-title{
+background-color: #F4F4FD;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize; 
+color: #2e2f42;
+}
+.team-member{
+    background-color: #FFFFFF
 }
