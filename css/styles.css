@@ -157,15 +157,16 @@ background-color: #F4F4FD;
     letter-spacing: 0.02em; 
     color :#2e2f42;
  }
- .section-list-item4{
-    
-    font-size: 36px;
+ .section-list-item-4{
+    font-size: 20px;
+    font-weight: 500;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color:#2e2f42 ;
-    text-transform: capitalize 
+    text-transform: capitalize;
+    line-height: 1.2 
  }
- .section-list-text4{
+ .section-list-text-4{
     font-size: 16px;
     line-height: 1.5;
     color:#434455 ;
