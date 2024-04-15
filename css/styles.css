@@ -151,20 +151,26 @@ background-color: #F4F4FD;
 }
 .section-title-our{
     font-weight: 500;
-    font-size: 36px ;
-    line-height: 1.11 ;
+    font-size: 20px ;
+    line-height: 1.2 ;
     text-align:center; 
     letter-spacing: 0.02em; 
     color :#2e2f42;
  }
- .section-list-item{
-    font-weight: 500;
-    font-size: 36px;
-    line-height: 1.11;
+ .section-list-item4{
+    
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42 ;
     text-transform: capitalize 
  }
+ .section-list-text4{
+    font-size: 16px;
+    line-height: 1.5;
+    color:#434455 ;
+    letter-spacing: 0.02em
+}
  .team-member{
     font-size: 16px;
     line-height: 1.5;
@@ -197,9 +203,4 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
-}
-.section-list-text{
-    font-size: 16px;
-    line-height: 1.5;
-    color:#434455 ;
 }
