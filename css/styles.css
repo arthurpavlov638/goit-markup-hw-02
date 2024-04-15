@@ -136,7 +136,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 }
-.section-title{
+.section-title3{
 font-weight: 500;
 font-size: 36px;
 line-height: 1.11; 
@@ -179,17 +179,13 @@ background-color: #F4F4FD;
     letter-spacing: 0.02em;
     color: #434455;
  }
+ 
  .section-our-team{
-    background-color:#F4F4FD;
+    background-color:#f4f4fd;
  }
  .custom-section{
     background-color: #2e2f42; 
  } 
- .section-4 h2{
-    font-size: 36px;
-    line-height: 1.11;
-    text-transform: capitalize;
- }
 .team-fullname{   
 font-weight: 500;
 font-size: 20px;
@@ -197,6 +193,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;
+text-align: center;
 }
 .team-role{
 font-weight: 400;
@@ -205,4 +202,14 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
+}
+.section-our-portfolio{
+    font-weight: 500;
+font-size: 36px;
+line-height: 1.11; 
+letter-spacing: 0.02em;
+text-transform: capitalize; 
+color: #2e2f42;
+text-align: center;
+
 }
