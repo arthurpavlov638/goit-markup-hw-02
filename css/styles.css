@@ -149,13 +149,14 @@ background-color: #F4F4FD;
 .team-member{
     background-color: #FFFFFF
 }
-.section-title-our{
+.section-title-our4{
     font-weight: 500;
     font-size: 20px ;
     line-height: 1.2 ;
     text-align:center; 
     letter-spacing: 0.02em; 
     color :#2e2f42;
+    text-transform: capitalize
  }
  .section-list-item4{
     
